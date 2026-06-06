@@ -8,9 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
             "user": "Cyan8",
             "link": "https://www.youtube.com/watch?v=h7KkdXvsbno",
             "percent": 100,
             "hz": 60
+        }
     ]
 }
