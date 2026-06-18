@@ -2,11 +2,17 @@
     "id": 61079355,
     "name": "Acu",
     "author": "neigefeu",
-    "creators": ["neigefue"],
+    "creators": ["neigefeu"],
     "verifier": "mrnoob1305",
     "verification": "https://youtu.be/2fsHukCLnnI?si=DKgtYQIX4EhRfSEl",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Cyan8",
+            "link": "https://youtu.be/b5IcF77SAS0",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
