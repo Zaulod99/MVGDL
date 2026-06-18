@@ -3,5 +3,10 @@
         "role": "owner",
         "name": "Lazuli",
         "link": "https://www.youtube.com/@Lazuli-GmD"
+    },
+    {
+        "role": "admin",
+        "name": "Cyan8",
+        "link": "https://www.youtube.com/@CyanEight"
     }
 ]
