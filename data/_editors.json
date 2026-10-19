@@ -8,5 +8,10 @@
         "role": "admin",
         "name": "Cyan8",
         "link": "https://www.youtube.com/@CyanEight"
+    },
+    {
+        "role": "dev",
+        "name": "BlueCrafter5",
+        "link": "https://www.youtube.com/@BlueCrafter5"
     }
 ]
